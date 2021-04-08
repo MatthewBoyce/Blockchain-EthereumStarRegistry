@@ -1,8 +1,5 @@
-# Blockchain-EthereumStarRegistry
-My second blockchain project, exploring the hype of NFTs and smart contracts by building a StarRegistry concept on the Ethereum network. 
-
-# Blockchain-EthereumStarRegistry
-My second blockchain project, exploring the hype of NFTs and smart contracts by building a StarRegistry concept on the Ethereum network. 
+# [WIP] Blockchain-EthereumStarRegistry
+My second blockchain project, exploring NFTs and smart contracts by building a StarRegistry concept on the Ethereum network. 
 
 
 ## Directory Strucutre
